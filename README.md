@@ -1,0 +1,1 @@
+#near-cli-extension-example
